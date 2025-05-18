@@ -1,0 +1,16 @@
+.card-cart{
+    position: relative;
+}
+
+.card-cart__bg-icon {
+    position: absolute;
+    top: 50%;
+    right: 50px;  
+    transform: translateY(-50%);
+    width: 60px;
+    height: 60px;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 0.1;
+    fill: aqua;
+}
