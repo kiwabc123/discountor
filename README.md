@@ -1,3 +1,6 @@
+## Author
+Tiradet Janta
+
 # CartDiscountor
 
 A web application for calculating discounts on shopping carts. Built with React and Vite using TypeScript.
@@ -12,6 +15,7 @@ A web application for calculating discounts on shopping carts. Built with React 
 - `src/utils/` – Utility functions (e.g., discount calculator)
 - `src/types/` – TypeScript types
 - `public/` – Static assets
+
 
 ## Getting Started
 
